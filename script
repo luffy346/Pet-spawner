@@ -1,2 +1,2 @@
 
-loadstring(game:HttpGet("https://gist.githubusercontent.com/silenceyeww/188936078e6f97f96ce448951976bb5f/raw/script.lua"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/silenceyeww/f2e39276e2ae0e750f55ccbe7803b903/raw/script.lua"))()
